@@ -13,9 +13,3 @@ Aplikasi ini mempermudah proses pengambilan keputusan dengan perankingan alterna
   - C4: Jarak ke Sekolah  
 - 📊 **Visualisasi Interaktif**: ranking alternatif, grafik skor preferensi, detail per nama siswa
 - 💾 **Ekspor Hasil** ke CSV/Excel
-
-## 🚀 Cara Menjalankan
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/USERNAME/streamlit-beasiswa.git
-   cd streamlit-beasiswa
